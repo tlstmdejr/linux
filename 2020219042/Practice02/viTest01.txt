@@ -1,0 +1,5 @@
+1aaa2345671
+Welcome to Vi Editor Training Course
+This is the contents of file vitest.txt
+it will only be used for many,many the examples in the vi Mode
+tlstmdejr
